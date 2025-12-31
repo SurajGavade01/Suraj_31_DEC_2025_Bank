@@ -1,1 +1,2 @@
-# Suraj_31_DEC_2025_Bank
+Project Description:
+This project is a simple Banking System developed using Python and Object-Oriented Programming (OOP) concepts. It allows users to create bank accounts, deposit and withdraw money, transfer funds between accounts, and view account details. The system demonstrates key OOP principles such as encapsulation, inheritance, abstraction, and polymorphism, making the code organized, reusable, and easy to maintain. This project helps in understanding how real-world banking operations can be modeled using OOP in Python.
