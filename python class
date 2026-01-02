@@ -1,0 +1,99 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPomWbkvYOuZDZGFYkOsxIV",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/SurajGavade01/Suraj_31_DEC_2025_Bank/blob/main/python%20class\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 2,
+      "metadata": {
+        "id": "395xVNRYx3EY"
+      },
+      "outputs": [],
+      "source": [
+        "class student:\n",
+        "  def name(self):\n",
+        "    return \"25\"\n",
+        "\n",
+        "class Student1:\n",
+        "  def name(self):\n",
+        "    return \"26\"\n",
+        ""
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "student= student()\n",
+        "student1 = Student1()"
+      ],
+      "metadata": {
+        "id": "8M1ZOdfayfV8"
+      },
+      "execution_count": 5,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "student1.name()"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 35
+        },
+        "id": "r9ZcFDlPyq0B",
+        "outputId": "b18dd37d-2326-494e-fda8-611377cf93b5"
+      },
+      "execution_count": 7,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "'26'"
+            ],
+            "application/vnd.google.colaboratory.intrinsic+json": {
+              "type": "string"
+            }
+          },
+          "metadata": {},
+          "execution_count": 7
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "g6PodMnNy0Ay"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
